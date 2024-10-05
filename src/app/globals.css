@@ -25,3 +25,13 @@ body {
     text-wrap: balance;
   }
 }
+
+
+/* styles.css or global.css */
+.no-select {
+  user-select: none; /* Prevent text selection */
+}
+
+.dragging {
+  opacity: 0.5; /* Optional: Make the item semi-transparent while dragging */
+}
