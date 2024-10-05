@@ -109,7 +109,7 @@ export default function Home() {
               <Box
                 key={task.id}
                 p={4}
-                bg="purple"
+                bg="Red"
                 borderRadius="md"
                 boxShadow="md"
                 color={"White"}
@@ -167,7 +167,7 @@ export default function Home() {
               <Box
                 key={task.id}
                 p={4}
-                bg="Red"
+                bg="Green"
                 borderRadius="md"
                 color={"White"}
                 boxShadow="md"
